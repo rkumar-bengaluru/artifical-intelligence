@@ -5,6 +5,34 @@ A comprehensive guide to learn artificial intelligence, this repository covers v
 ![Awesome](https://github.com/rkumar-bengaluru/data-science/blob/main/20-Tensorflow/07-Skimlit/resources/ml_map.png)
 
 
+Artificial Intelligence (AI) is a broad field that encompasses various components and techniques. The key components of artificial intelligence include:
+
+* Knowledge Representation: AI systems require a way to represent and store knowledge to reason and make decisions. This includes representing facts, rules, concepts, relationships, and other forms of information in a structured and organized manner.
+
+* Machine Learning: Machine learning is a subset of AI that focuses on enabling systems to automatically learn from data and improve performance without being explicitly programmed. It involves algorithms and techniques that allow machines to recognize patterns, make predictions, and adapt to new information.
+
+* Natural Language Processing (NLP): NLP involves enabling computers to understand, interpret, and generate human language. It encompasses techniques for tasks such as speech recognition, language understanding, sentiment analysis, machine translation, and text generation.
+
+* Computer Vision: Computer vision deals with enabling machines to see and interpret visual information from images or videos. It involves techniques for tasks like object recognition, image classification, object tracking, image generation, and scene understanding.
+
+* Robotics: Robotics combines AI and physical systems to create intelligent machines capable of performing physical tasks. It involves developing algorithms and control systems for robots to perceive their environment, plan actions, manipulate objects, and interact with humans.
+
+* Expert Systems: Expert systems are AI systems that emulate the expertise and decision-making abilities of human experts in specific domains. They use knowledge-based rules and reasoning techniques to provide advice, make recommendations, and solve complex problems.
+
+* Planning and Decision Making: AI systems often need to plan and make decisions based on their understanding of the world and the available information. This involves techniques such as automated planning, reasoning under uncertainty, and decision-making algorithms.
+
+* Cognitive Computing: Cognitive computing aims to create AI systems that can simulate human thought processes, including perception, reasoning, learning, problem-solving, and decision-making. It involves the development of algorithms inspired by human cognition and neuroscience.
+
+* Neural Networks: Neural networks are computational models inspired by the structure and function of the human brain. They consist of interconnected nodes, or artificial neurons, organized in layers. Neural networks are capable of learning complex patterns and relationships from data through training.
+
+* Knowledge Representation and Reasoning: AI systems need mechanisms to represent knowledge and use it for reasoning and inference. This includes techniques such as logical reasoning, probabilistic reasoning, ontologies, semantic networks, and rule-based systems.
+
+* Data Mining: Data mining involves extracting valuable insights and knowledge from large datasets. It uses AI techniques to discover patterns, correlations, anomalies, and trends in data, enabling businesses and organizations to make data-driven decisions.
+
+* Adaptive Systems: Adaptive systems refer to AI systems that can learn and adapt over time based on their experiences and feedback. These systems can improve their performance, optimize their behavior, and adjust their strategies in response to changing environments or new data.
+
+These components collectively contribute to the development of artificial intelligence systems with various capabilities, such as understanding human language, recognizing images, making decisions, solving complex problems, and learning from data. Different AI applications may focus on specific components or combine multiple components to achieve their goals.
+
 ### Supervised learning 
 
 Supervised Learning is a type of machine learning where an algorithm learns from labeled training data to make predictions or decisions on new, unseen data. In supervised learning, the algorithm is provided with a dataset that consists of input data and corresponding correct output labels or target values. The goal is to learn a mapping or relationship between the input data and the desired output labels, allowing the algorithm to generalize and make accurate predictions on new, unseen data.
