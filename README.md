@@ -5,9 +5,9 @@ A comprehensive guide to learn artificial intelligence, this repository covers v
 ![ai](https://raw.githubusercontent.com/rkumar-bengaluru/artifical-intelligence/main/resources/ai.jpg)
 
 
-Artificial Intelligence (AI) is a broad field that encompasses various components and techniques. The key components of artificial intelligence include:
+**Artificial Intelligence (AI)** is a broad field that encompasses various components and techniques. The key components of artificial intelligence include:
 
-* Machine Learning: Machine learning is a subset of AI that focuses on enabling systems to automatically learn from data and improve performance without being explicitly programmed. It involves algorithms and techniques that allow machines to recognize patterns, make predictions, and adapt to new information.
+* **Machine Learning**: Machine learning is a subset of AI that focuses on enabling systems to automatically learn from data and improve performance without being explicitly programmed. It involves algorithms and techniques that allow machines to recognize patterns, make predictions, and adapt to new information.
 
 * Natural Language Processing (NLP): NLP involves enabling computers to understand, interpret, and generate human language. It encompasses techniques for tasks such as speech recognition, language understanding, sentiment analysis, machine translation, and text generation.
 
