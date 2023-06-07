@@ -13,23 +13,17 @@ Artificial Intelligence (AI) is a broad field that encompasses various component
 
 * Computer Vision: Computer vision deals with enabling machines to see and interpret visual information from images or videos. It involves techniques for tasks like object recognition, image classification, object tracking, image generation, and scene understanding.
 
-* Robotics: Robotics combines AI and physical systems to create intelligent machines capable of performing physical tasks. It involves developing algorithms and control systems for robots to perceive their environment, plan actions, manipulate objects, and interact with humans.
+* Cognitive Computing: Cognitive computing aims to create AI systems that can simulate human thought processes, including perception, reasoning, learning, problem-solving, and decision-making. It involves the development of algorithms inspired by human cognition and neuroscience.
 
 * Expert Systems: Expert systems are AI systems that emulate the expertise and decision-making abilities of human experts in specific domains. They use knowledge-based rules and reasoning techniques to provide advice, make recommendations, and solve complex problems.
 
-* Planning and Decision Making: AI systems often need to plan and make decisions based on their understanding of the world and the available information. This involves techniques such as automated planning, reasoning under uncertainty, and decision-making algorithms.
-
-* Cognitive Computing: Cognitive computing aims to create AI systems that can simulate human thought processes, including perception, reasoning, learning, problem-solving, and decision-making. It involves the development of algorithms inspired by human cognition and neuroscience.
-
-* Neural Networks: Neural networks are computational models inspired by the structure and function of the human brain. They consist of interconnected nodes, or artificial neurons, organized in layers. Neural networks are capable of learning complex patterns and relationships from data through training.
+* Knowledge Representation: AI systems require a way to represent and store knowledge to reason and make decisions. This includes representing facts, rules, concepts, relationships, and other forms of information in a structured and organized manner.
 
 * Knowledge Representation and Reasoning: AI systems need mechanisms to represent knowledge and use it for reasoning and inference. This includes techniques such as logical reasoning, probabilistic reasoning, ontologies, semantic networks, and rule-based systems.
 
 * Data Mining: Data mining involves extracting valuable insights and knowledge from large datasets. It uses AI techniques to discover patterns, correlations, anomalies, and trends in data, enabling businesses and organizations to make data-driven decisions.
 
 * Adaptive Systems: Adaptive systems refer to AI systems that can learn and adapt over time based on their experiences and feedback. These systems can improve their performance, optimize their behavior, and adjust their strategies in response to changing environments or new data.
-
-* Knowledge Representation: AI systems require a way to represent and store knowledge to reason and make decisions. This includes representing facts, rules, concepts, relationships, and other forms of information in a structured and organized manner.
 
 These components collectively contribute to the development of artificial intelligence systems with various capabilities, such as understanding human language, recognizing images, making decisions, solving complex problems, and learning from data. Different AI applications may focus on specific components or combine multiple components to achieve their goals.
 
@@ -199,7 +193,25 @@ Here are some key characteristics and components of cognitive computing:
 
 Cognitive computing finds applications in various fields, including healthcare, finance, customer service, education, cybersecurity, and more. By combining multiple AI techniques, cognitive computing aims to create intelligent systems that can augment human capabilities, provide valuable insights, and assist in complex decision-making processes.
 
+## Expert Systems
 
+Expert systems are a branch of artificial intelligence (AI) that focuses on developing computer systems capable of emulating the decision-making and problem-solving abilities of human experts in specific domains. They are designed to solve complex problems by capturing and utilizing the knowledge and expertise of human specialists.
+
+Expert systems consist of two main components: a knowledge base and an inference engine.
+
+* Knowledge Base: The knowledge base is a repository of specialized knowledge and expertise in a specific domain. It contains rules, facts, and heuristics that represent the expertise of human specialists. The knowledge is typically acquired through interviews, observations, or by extracting information from existing experts. The knowledge base is structured in a way that allows the system to store and retrieve relevant information.
+
+* Inference Engine: The inference engine is responsible for using the knowledge in the knowledge base to make decisions or solve problems. It applies logical reasoning and inference techniques to process the available information and draw conclusions. The inference engine uses the rules and heuristics from the knowledge base to perform tasks such as pattern matching, deduction, and logical inference.
+
+Expert systems can have different types of reasoning capabilities, including:
+
+* Rule-Based Reasoning: This involves using a set of if-then rules to guide the decision-making process. The rules in the knowledge base represent the expertise and logic of human experts, and the inference engine applies these rules to reach conclusions.
+
+* Case-Based Reasoning: In this approach, the system solves new problems by retrieving and adapting solutions from previously solved similar cases. The knowledge base stores a collection of past cases along with their solutions, and the inference engine uses these cases to guide the problem-solving process.
+
+* Bayesian Reasoning: Bayesian networks are used to model probabilistic relationships between variables. The knowledge base contains probabilities and conditional dependencies, allowing the system to reason about uncertainties and make probabilistic predictions.
+
+Expert systems have been successfully applied in various fields, such as medicine, finance, engineering, and troubleshooting complex technical systems. They can assist human experts in decision-making, provide recommendations, diagnose problems, and help novices learn from expert knowledge. While expert systems may not possess the adaptability and generalization capabilities of machine learning approaches, they excel in domains where explicit knowledge and reasoning are crucial for making informed decisions.
 
 
 
