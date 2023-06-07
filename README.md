@@ -5,7 +5,45 @@ A comprehensive guide to learn artificial intelligence, this repository covers v
 ![Awesome](https://github.com/rkumar-bengaluru/data-science/blob/main/20-Tensorflow/07-Skimlit/resources/ml_map.png)
 
 
-## Deep learning 
+### Supervised learning 
+
+Supervised Learning is a type of machine learning where an algorithm learns from labeled training data to make predictions or decisions on new, unseen data. In supervised learning, the algorithm is provided with a dataset that consists of input data and corresponding correct output labels or target values. The goal is to learn a mapping or relationship between the input data and the desired output labels, allowing the algorithm to generalize and make accurate predictions on new, unseen data.
+
+Here's a step-by-step overview of how supervised learning works:
+
+* Input Data and Labels: The labeled training dataset is provided, where each observation or example in the dataset consists of a set of features (input data) and the corresponding correct output label or target value. The features describe the relevant information about the input data, and the labels represent the desired output for that input.
+
+* Training Phase: The supervised learning algorithm analyzes the labeled training data to learn the underlying patterns and relationships between the input data and the output labels. It adjusts its internal parameters based on the input-output pairs, optimizing them to minimize the discrepancy between the predicted output and the true labels.
+
+* Model Creation: As the algorithm learns from the labeled training data, it creates a model that captures the learned patterns and relationships. The model represents the mathematical or computational representation of the mapping between the input data and the output labels. The model's structure and parameters depend on the specific supervised learning algorithm being used.
+
+* Prediction: Once the model is trained, it can be used to make predictions or decisions on new, unseen data. The model takes the input data and applies the learned mapping to generate predictions or outputs. These predictions can be in the form of class labels for classification tasks or numerical values for regression tasks, depending on the nature of the problem.
+
+* Evaluation: The performance of the supervised learning model is evaluated using separate test data that was not used during training. The model's predictions or decisions are compared to the true labels or target values to assess its accuracy and generalization ability. Various evaluation metrics such as accuracy, precision, recall, F1 score, or mean squared error (MSE) are used to measure the model's performance.
+
+* Supervised learning is widely used in various domains, including image and speech recognition, natural language processing, fraud detection, sentiment analysis, and many other tasks where labeled training data is available. It allows machines to learn from past examples and make informed predictions or decisions on new, unseen data based on the learned patterns and relationships.
+
+### Unsupervised learning 
+
+Unsupervised Learning is a type of machine learning where the algorithm learns from unlabeled data without any explicit target or output labels. In unsupervised learning, the algorithm aims to discover patterns, relationships, or structures in the data without prior knowledge of the desired outcomes. It allows the algorithm to explore and understand the inherent characteristics and organization of the data on its own.
+
+Here's an overview of how unsupervised learning works:
+
+* Unlabeled Data: In unsupervised learning, the algorithm is given a dataset that consists of only input data, without any corresponding output labels or target values. The input data represents a collection of observations or examples, where each example contains a set of features that describe the relevant information about the data.
+
+* Clustering: One of the primary tasks in unsupervised learning is clustering, where the algorithm aims to group similar data points together based on their inherent similarities or proximity in the feature space. Clustering algorithms identify clusters or subgroups within the data, helping to uncover the underlying structure or patterns.
+
+* Dimensionality Reduction: Another important task in unsupervised learning is dimensionality reduction. High-dimensional data often contains redundant or irrelevant features that can complicate analysis and modeling. Dimensionality reduction techniques aim to transform the data into a lower-dimensional space while preserving as much of the important information as possible. This can help in visualization, feature selection, and improving the efficiency of subsequent analysis.
+
+* Anomaly Detection: Unsupervised learning can also be used for anomaly detection, where the algorithm learns the normal patterns or behavior of the data and identifies instances that deviate significantly from those patterns. Anomaly detection helps in identifying rare events, outliers, or potentially fraudulent or abnormal behavior in various applications.
+
+* Data Visualization: Unsupervised learning techniques can be utilized to visualize and explore the data in a meaningful way. By reducing the dimensionality of the data or finding underlying clusters or patterns, it becomes possible to visualize the data in two or three dimensions, aiding in understanding the data distribution and potential relationships between the observations.
+
+* Pattern Discovery: Unsupervised learning algorithms can help in discovering previously unknown patterns or relationships in the data. By analyzing the data without prior knowledge or predefined categories, the algorithm can identify hidden structures, correlations, or associations that were not apparent initially.
+
+Unsupervised learning techniques play a crucial role in various domains, including market segmentation, customer behavior analysis, anomaly detection, recommendation systems, and exploratory data analysis. They allow for data-driven exploration, understanding, and inference without relying on labeled data, making unsupervised learning a valuable tool in discovering insights and knowledge from unlabeled datasets.
+
+### Deep learning 
 
 Deep Learning is a subfield of machine learning that focuses on training artificial neural networks with multiple layers to learn and represent complex patterns and relationships in data. The main components of deep learning are as follows:
 
@@ -27,7 +65,7 @@ Deep Learning is a subfield of machine learning that focuses on training artific
 
 These components work together to enable deep neural networks to learn complex representations and extract meaningful patterns from data. Deep learning has demonstrated remarkable success in various domains, including computer vision, natural language processing, speech recognition, and many other areas that benefit from learning hierarchical representations.
 
-## Reinforcement learning (RL) 
+### Reinforcement learning (RL) 
 
 Reinforcement Learning is a subfield of artificial intelligence that focuses on teaching machines how to make a sequence of decisions in an environment to maximize a cumulative reward. The main components of reinforcement learning are:
 
