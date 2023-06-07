@@ -5,7 +5,29 @@ A comprehensive guide to learn artificial intelligence, this repository covers v
 ![Awesome](https://github.com/rkumar-bengaluru/data-science/blob/main/20-Tensorflow/07-Skimlit/resources/ml_map.png)
 
 
-### Reinforcement learning (RL) 
+## Deep learning 
+
+Deep Learning is a subfield of machine learning that focuses on training artificial neural networks with multiple layers to learn and represent complex patterns and relationships in data. The main components of deep learning are as follows:
+
+* Artificial Neural Networks (ANN): Artificial neural networks are the fundamental building blocks of deep learning. They are composed of interconnected nodes, known as neurons or units, organized into layers. The input layer receives data, and subsequent hidden layers process the information, extracting increasingly abstract representations. The output layer produces the final predictions or outputs.
+
+* Neurons and Activation Functions: Neurons are computational units within artificial neural networks. Each neuron receives inputs, applies a mathematical operation to them, and produces an output. Activation functions are applied to the output of each neuron to introduce non-linearities, allowing neural networks to model complex relationships and capture non-linear patterns in data.
+
+* Layers: Layers are the structural units of neural networks. A deep neural network typically consists of an input layer, one or more hidden layers, and an output layer. Each layer contains multiple neurons that process and transform data as it passes through the network. Deep architectures with many hidden layers can learn hierarchical representations of data.
+
+* Weights and Biases: Neural networks learn by adjusting the weights and biases associated with each connection between neurons. Weights determine the strength of the connections, while biases control the threshold at which neurons activate. During training, the network optimizes these parameters to minimize the difference between predicted outputs and the ground truth labels.
+
+* Backpropagation: Backpropagation is the core algorithm used to train deep neural networks. It involves computing the gradients of the network's weights and biases with respect to a loss function. These gradients are then used to update the parameters in a way that reduces the prediction errors. By iteratively applying backpropagation on training data, the network learns to improve its predictions.
+
+* Loss Functions: Loss functions measure the discrepancy between predicted outputs and the ground truth labels. They quantify the error of the network's predictions during training. The choice of a suitable loss function depends on the specific task at hand, such as regression, classification, or generative modeling. Common loss functions include mean squared error, categorical cross-entropy, and binary cross-entropy.
+
+* Optimization Algorithms: Optimization algorithms are used to iteratively update the weights and biases of the neural network during training. They determine how the network's parameters are adjusted based on the computed gradients. Popular optimization algorithms include stochastic gradient descent (SGD) and its variants, such as Adam, RMSprop, and AdaGrad.
+
+* Deep Learning Architectures: Deep learning encompasses various architectural designs, each suited to different tasks and data types. Examples of popular deep learning architectures include convolutional neural networks (CNNs) for image processing, recurrent neural networks (RNNs) for sequential data, and generative adversarial networks (GANs) for generative modeling.
+
+These components work together to enable deep neural networks to learn complex representations and extract meaningful patterns from data. Deep learning has demonstrated remarkable success in various domains, including computer vision, natural language processing, speech recognition, and many other areas that benefit from learning hierarchical representations.
+
+## Reinforcement learning (RL) 
 
 Reinforcement Learning is a subfield of artificial intelligence that focuses on teaching machines how to make a sequence of decisions in an environment to maximize a cumulative reward. The main components of reinforcement learning are:
 
