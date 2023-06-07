@@ -49,7 +49,7 @@ Here's a step-by-step overview of how supervised learning works:
 
 * **Evaluation**: The performance of the supervised learning model is evaluated using separate test data that was not used during training. The model's predictions or decisions are compared to the true labels or target values to assess its accuracy and generalization ability. Various evaluation metrics such as accuracy, precision, recall, F1 score, or mean squared error (MSE) are used to measure the model's performance.
 
-* Supervised learning is widely used in various domains, including image and speech recognition, natural language processing, fraud detection, sentiment analysis, and many other tasks where labeled training data is available. It allows machines to learn from past examples and make informed predictions or decisions on new, unseen data based on the learned patterns and relationships.
+Supervised learning is widely used in various domains, including image and speech recognition, natural language processing, fraud detection, sentiment analysis, and many other tasks where labeled training data is available. It allows machines to learn from past examples and make informed predictions or decisions on new, unseen data based on the learned patterns and relationships.
 
 ### Unsupervised learning 
 
