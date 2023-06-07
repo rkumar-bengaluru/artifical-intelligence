@@ -2,7 +2,7 @@
 
 A comprehensive guide to learn artificial intelligence, this repository covers various components and techniques that work together to enable intelligent behavior in machines.
 
-![Awesome](https://github.com/rkumar-bengaluru/data-science/blob/main/20-Tensorflow/07-Skimlit/resources/ml_map.png)
+![Awesome](https://raw.githubusercontent.com/rkumar-bengaluru/artifical-intelligence/main/resources/ai.jpg)
 
 
 Artificial Intelligence (AI) is a broad field that encompasses various components and techniques. The key components of artificial intelligence include:
