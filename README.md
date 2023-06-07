@@ -5,7 +5,9 @@ A comprehensive guide to learn artificial intelligence, this repository covers v
 ![Awesome](https://github.com/rkumar-bengaluru/data-science/blob/main/20-Tensorflow/07-Skimlit/resources/ml_map.png)
 
 
-### Reinforcement learning (RL) is a subfield of artificial intelligence that focuses on teaching machines how to make a sequence of decisions in an environment to maximize a cumulative reward. The main components of reinforcement learning are:
+### Reinforcement learning (RL) 
+
+Reinforcement Learning is a subfield of artificial intelligence that focuses on teaching machines how to make a sequence of decisions in an environment to maximize a cumulative reward. The main components of reinforcement learning are:
 
 * Agent: The agent is the learner or decision-maker in the RL system. It interacts with the environment, observes its current state, takes actions, and receives feedback in the form of rewards or penalties based on its actions.
 
